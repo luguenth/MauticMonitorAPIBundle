@@ -1,0 +1,11 @@
+{
+    "name": "guenther/monitor-api-bundle",
+    "type": "mautic-plugin",
+    "authors": [
+        {
+            "name": "Lukas Günther",
+            "email": "lukas.guenther@tib.eu"
+        }
+    ],
+    "require": {}
+}
