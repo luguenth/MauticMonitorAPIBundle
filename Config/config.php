@@ -19,11 +19,11 @@ return [
             'standard_entity' => true,
             'name'            => 'monitor',
             'path'            => '/monitor',
-            'controller'      => 'MonitorAPIBundle:Api\Monitor',
+            'controller'      => 'MauticMonitorAPIBundle:Api\Monitor',
         ],
         'mautic_api_monitor_version' => [
             'path'       => '/monitor/all',
-            'controller' => 'MonitorAPIBundle:Api\Monitor:getAll',
+            'controller' => 'MauticMonitorAPIBundle:Api\Monitor:getAll',
             'method'     => 'GET',
         ],
     ],

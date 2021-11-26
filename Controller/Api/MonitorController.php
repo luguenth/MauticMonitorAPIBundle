@@ -1,6 +1,6 @@
 <?php
 
-namespace MauticPlugin\MonitorAPIBundle\Controller\Api;
+namespace MauticPlugin\MauticMonitorAPIBundle\Controller\Api;
 
 use Mautic\ApiBundle\Controller\CommonApiController;
 use Mautic\CoreBundle\Helper\PhpVersionHelper;
